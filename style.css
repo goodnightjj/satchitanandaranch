@@ -12,10 +12,10 @@ body {direction: ltr !important;}
 /* header hero */
 header {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
 #header-home {background-image: url('img/hero.png');}
-header p {padding-top: 20px;}
+header p {padding-top: 20px; max-width: 800px; margin: 0 auto;}
 p + p {padding-top: 15px;}
 p.hero-text {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 4.5rem;}
-p {font-family: Helvetica, sans-serif; font-size: 1rem; text-align: center;}
+p, a {font-family: Helvetica, sans-serif; font-size: 1rem; text-align: center; color: white;}
 
 /* callout */
 .callout {margin-top: 50px;}
