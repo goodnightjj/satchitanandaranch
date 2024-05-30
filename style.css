@@ -14,6 +14,8 @@ header {height: 100vh; padding-top: 40px; box-sizing: border-box; background-pos
 #header-home {background-image: url('img/hero.png');}
 header p {padding-top: 20px;}
 p + p {padding-top: 15px;}
+p.hero-text {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 4.5rem;}
+p {font-family: Helvetica, sans-serif; font-size: 1rem; text-align: center;}
 
 /* callout */
 .callout {margin-top: 50px;}
