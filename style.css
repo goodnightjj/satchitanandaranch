@@ -15,7 +15,8 @@ header {height: 100vh; padding-top: 40px; box-sizing: border-box; background-pos
 header p {padding-top: 20px; max-width: 800px; margin: 0 auto;}
 p + p {padding-top: 15px;}
 p.hero-text {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 4.5rem;}
-p, a {font-family: Helvetica, sans-serif; font-size: 1rem; text-align: center; color: white;}
+p, a {font-family: Helvetica, sans-serif; font-size: 1.25rem; text-align: center; color: white;}
+header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-style: italic; color: white; font-size: 1.25rem;}
 
 /* callout */
 .callout {margin-top: 50px;}
