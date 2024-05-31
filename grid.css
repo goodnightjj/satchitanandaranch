@@ -1,5 +1,26 @@
 /* start simple grid - zach cole */
 
+@font-face {
+	font-family: 'SuperLight';
+	src: url('../fonts/GT-Super-Display-Light.woff2') format('woff2'),
+	url('../fonts/GT-Super-Display-Light.woff') format('woff'),
+	url('../fonts/GT-Super-Display-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'SuperBoldItalic';
+	src: url('../fonts/GT-Super-Display-Bold-Italic.woff2') format('woff2'),
+	url('../fonts/GT-Super-Display-Bold-Italic.woff') format('woff'),
+	url('../fonts/GT-Super-Display-Bold-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'SuperLightItalic';
+	src: url('../fonts/GT-Super-Display-Light-Italic.woff2') format('woff2'),
+	url('../fonts/GT-Super-Display-Light-Italic.woff') format('woff'),
+	url('../fonts/GT-Super-Display-Light-Italic.ttf') format('truetype');
+}
+
 /* multiversal */
 html, body, h1, h2, h3, h4, h5, h6, p {height: 100%; width: 100%; margin: 0; padding: 0; left: 0; top: 0; font-size: 100%;}
 
