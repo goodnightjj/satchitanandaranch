@@ -1,5 +1,5 @@
 /* global */
-sub {font-size: 60%;}
+html {background: #9e61b3;}
 body {direction: ltr !important;}
 
 /* nav */
@@ -32,6 +32,7 @@ header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; fo
 .content-home + .content-home {margin-top: 150px;}
 .bio p {font-size: 0.875rem;}
 #home {margin-top: 200px; margin-bottom: 200px;}
+sub {font-size: 60%;}
 
 /* action */
 .action {margin-top: 50px;}
