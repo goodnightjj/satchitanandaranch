@@ -117,13 +117,15 @@ footer a {
 
 footer a:hover {opacity: 1;}
 
-/* responsive 960, 720, 540 */
+/* rwd */
 
 @media only screen and (max-width: 960px) {
 	#header-home h1 {font-size: 2rem;}
 	.content-home h2 {margin-top: 0; padding-top: 0;}
 	.content-home p {font-size: 1.25rem;}
 	.prev-next span {display: none;}
+	#text-hero {font-size: 2.25rem;}
+	p, a {font-size: 1rem;}
 }
 
 @media only screen and (max-width: 720px) {
