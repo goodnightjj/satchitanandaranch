@@ -17,6 +17,7 @@ p + p {padding-top: 15px;}
 p, a {font-family: Helvetica, sans-serif; font-size: 1.125rem; text-align: center; color: white; font-weight: 200;}
 #text-hero {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 3.5rem; line-height: 1.1; margin-top: 50px;}
 header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-style: italic; color: white; font-size: 1.125rem;}
+#header-home img {max-width: 220px;}
 
 /* callout */
 .callout {margin-top: 50px;}
@@ -153,4 +154,5 @@ footer a:hover {opacity: 1;}
 	header em {font-size: 0.875rem;}
 	header p {margin-top: 20px; padding-top: 0;}
 	#text-hero {margin-top: 35px;}
+	#header-home img {max-width: 180px;}
 }
