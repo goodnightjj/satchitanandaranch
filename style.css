@@ -148,9 +148,9 @@ footer a:hover {opacity: 1;}
 @media only screen and (max-width: 540px) {
 	.media-category {margin-top: 130px;}
 	.media-category a {margin-top: 0;}
-	#text-hero {font-size: 1.75rem;}
-	p, a {font-size: 0.75rem;}
+	#text-hero {font-size: 1.875rem;}
+	p, a {font-size: 0.875rem;}
+	header em {font-size: 0.875rem;}
 	header p {margin-top: 20px; padding-top: 0;}
 	#text-hero {margin-top: 35px;}
-	header em {font-size: 0.75rem;}
 }
