@@ -127,6 +127,7 @@ footer a:hover {opacity: 1;}
 	.prev-next span {display: none;}
 	#text-hero {font-size: 2.25rem;}
 	p, a {font-size: 1rem;}
+	.vh-center {top: 220px;}
 }
 
 @media only screen and (max-width: 720px) {
