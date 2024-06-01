@@ -93,7 +93,6 @@ p, a {font-size: 1.5rem;}
 
 @media only screen and (min-width: 540px) {	/* 540px */
 	.container {width: 80%;}
-	.vh-center {top: 220px;}
 }
 
 @media only screen and (min-width: 720px) {	/* 720px */
