@@ -10,7 +10,6 @@ body {direction: ltr !important;}
 .overlay-content {position: fixed; top: 20%; left: 0; width: 100%; text-align: center;} /* used to be position: relative */
 
 /* header hero */
-.vh-center {position: absolute; top: 440px; left: 50%; transform: translate(-50%, -50%);}
 header {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
 #header-home {background-image: url('img/hero.png');}
 header p {margin-top: 30px; padding-top: 20px; max-width: 800px; margin: 0 auto;}
@@ -153,4 +152,5 @@ footer a:hover {opacity: 1;}
 	p, a {font-size: 0.75rem;}
 	header p {margin-top: 20px; padding-top: 0;}
 	#text-hero {margin-top: 35px;}
+	header em {font-size: 0.75rem;}
 }
