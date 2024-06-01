@@ -115,5 +115,6 @@ p, a {font-size: 1.5rem;}
 
 @media only screen and (min-width: 960px) { /* 960px */
 	.container {width: 75%;}
+	.vh-center {top: 220px;}
 }
 /* end simple grid */
