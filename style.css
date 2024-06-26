@@ -1,5 +1,5 @@
 /* global */
-html {background: #9e61b3;}
+html {background: white;}
 body {direction: ltr !important;}
 
 /* nav */
@@ -22,6 +22,7 @@ p, a {font-family: Helvetica, sans-serif; font-size: 1.125rem; text-align: cente
 .section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px;}
 header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-style: italic; color: white; font-size: 1.125rem;}
 #header-home img {max-width: 220px;}
+.main-section p {text-align: left;}
 
 /* callout */
 .callout {margin-top: 50px;}
