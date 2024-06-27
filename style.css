@@ -10,7 +10,7 @@ body {direction: ltr !important;}
 .overlay-content {position: fixed; top: 20%; left: 0; width: 100%; text-align: center;} /* used to be position: relative */
 
 /* header hero */
-header {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
+header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
 #header-home {background-image: url('img/hero.png');}
 #header-retreats {background-image: url('img/retreats.png');}
 #header-about {background-image: url('img/about.png');}
