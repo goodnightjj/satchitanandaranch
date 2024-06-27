@@ -49,7 +49,7 @@ sub {font-size: 60%;}
 .action h2 {padding: 150px 0 40px 0;}
 
 /* buttons */
-#signup-button {text-align: center; font-weight: normal; margin-top: 150px; margin-bottom: 150px;}
+#signup-button, #signup-button button {text-align: center; font-weight: normal; margin-top: 150px; margin-bottom: 150px;}
 .action a {
 	display: inline-block;
 	position: relative;
