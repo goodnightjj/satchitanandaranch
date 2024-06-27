@@ -45,6 +45,8 @@ sub {font-size: 60%;}
 .sub-section {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1; margin-top: 50px;}
 .team-name {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1;}
 .team-title {font-family: Helvetica, sans-serif; font-size: 1rem; text-align: center; color: black; font-weight: bold; margin-top: 10px; margin-bottom: 20px;}
+.team-block {margin-bottom: 50px;}
+.team-block img {width: 100%;}
 
 /* action */
 .action {margin-top: 50px;}
