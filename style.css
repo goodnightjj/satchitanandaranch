@@ -46,7 +46,7 @@ sub {font-size: 60%;}
 .team-name {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1;}
 .team-title {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: bold; margin-top: 10px; margin-bottom: 20px;}
 .team-bio {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: normal;}
-.team-block {margin-bottom: 50px;}
+.team-block {margin-bottom: 100px;}
 .team-block img {width: 100%;}
 
 /* action */
