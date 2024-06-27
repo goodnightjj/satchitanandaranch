@@ -8,7 +8,6 @@ body {direction: ltr !important;}
 .overlay #nav-icon {margin-top: 85px; opacity: 0.7;}
 .overlay {height: 100%; width: 100%; display: none; position: fixed; z-index: 99; top: 0; left: 0; background-color: rgba(0,0,0,0.93);}
 .overlay-content {position: fixed; top: 20%; left: 0; width: 100%; text-align: center;} /* used to be position: relative */
-button {font-weight: normal; margin-top: 150px; margin-bottom: 150px;}
 
 /* header hero */
 header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
@@ -50,6 +49,7 @@ sub {font-size: 60%;}
 .action h2 {padding: 150px 0 40px 0;}
 
 /* buttons */
+#signup-button {text-align: center; font-weight: normal; margin-top: 150px; margin-bottom: 150px;}
 .action a {
 	display: inline-block;
 	position: relative;
