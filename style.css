@@ -19,6 +19,7 @@ header, #header-retreats, #header-about, #header-team {height: 100vh; padding-to
 header p {margin-top: 30px; padding-top: 20px; max-width: 800px; margin: 0 auto; color: white;}
 p + p {padding-top: 15px;}
 p, a {font-family: Helvetica, sans-serif; font-size: 1.125rem; text-align: center; color: black; font-weight: 200;}
+header p {color: white;}
 #text-hero {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 3.5rem; line-height: 1.1; margin-top: 50px;}
 .section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px;}
 header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-style: italic; color: white; font-size: 1.125rem;}
