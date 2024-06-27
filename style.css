@@ -43,6 +43,7 @@ sub {font-size: 60%;}
 .main-section p {text-align: left;}
 .section-title {margin-bottom: 50px;}
 .sub-section {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1; margin-top: 50px;}
+.team-name {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1; margin-bottom: 20px;}
 
 /* action */
 .action {margin-top: 50px;}
