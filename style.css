@@ -85,6 +85,10 @@ sub {font-size: 60%;}
 /* .overlay .closebtn {position: absolute; top: 20px; right: 45px; font-size: 60px;} */
 .inline-link a {margin-top: 0;}
 a, a:hover, a:visited {color: white; text-decoration: underline;}
+.retreats a, .retreats a:hover, .retreats a:visited {color: black;}
+.team-bio a, .team-bio a:hover, .team-bio a:visited {font-size: 1rem; color: black;}
+a {transition: opacity .3s ease-out;}
+.retreats a:hover, .team-bio a:hover {opacity: 0.6;}
 
 /* footer */
 #footer-desktop {display: block;}
