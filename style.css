@@ -91,7 +91,7 @@ a {transition: color .3s ease-out;}
 .retreats a:hover, .team-bio a:hover {color: #9564ae;}
 
 /* footer */
-footer img {
+.footer img, footer img {
 	max-width: 50px;
 	margin-top: 100px;
 	margin-bottom: 100px;
