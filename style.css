@@ -94,51 +94,6 @@ a {transition: color .3s ease-out;}
 #footer-desktop {display: block;}
 #footer-rwd {display: none;}
 
-footer {
-	background: black;
-	padding-top: 150px;
-	padding-bottom: 150px;
-	margin-top: 200px;	
-}
-
-footer .footer-logo {
-	margin-top: 1px;
-	padding-top: 0;
-	padding-bottom: 10px;
-	opacity: 0.7;
-}
-
-footer .link-h1 {
-	font-size: 0.875rem;
-	color: white;
-	opacity: 0.4;
-	padding-bottom: 10px;
-	font-weight: bold;
-	line-height: 1.5;
-}
-
-footer p#copyrights {
-	font-size: 0.75rem;
-	color: white;
-	opacity: 0.4;
-	padding-top: 8px;
-}
-
-footer a {
-	display: block;
-	font-size: 0.75rem;
-	color: white;
-	text-decoration: none;
-	line-height: 1.5;
-	opacity: 0.7;
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
-
-footer a:hover {opacity: 1;}
-.footer {height: 350px;}
-.footer img {padding-top: 150px; width: 52px;}
-
 /* rwd */
 
 @media only screen and (max-width: 960px) {
