@@ -92,10 +92,10 @@ li{margin: 10px 0;}
 /* .overlay .closebtn {position: absolute; top: 20px; right: 45px; font-size: 60px;} */
 .inline-link a {margin-top: 0;}
 a, a:hover, a:visited {color: white; text-decoration: underline;}
-.retreats a, .retreats a:visited, .benefits-links a, .benefits-links a:visited ;{color: black;}
-.team-bio a, .team-bio a:visited {font-size: 1rem; color: black;}
-.retreats a:hover, .team-bio a:hover, .benefits-links a:hover {color: #9564ae;}
 a {transition: color .3s ease-out;}
+.retreats a, .retreats a:visited, .benefits-links a, .benefits-links a:visited {color: black;}
+.team-bio a, .team-bio a:visited {font-size: 1rem; color: black;}
+.retreats a:hover, .benefits-links a:hover, .team-bio a:hover {color: #9564ae;}
 
 /* FOOTER */
 .footer img, footer img {
