@@ -7,7 +7,20 @@ body {direction: ltr !important;}
 .overlay {height: 100%; width: 100%; display: none; position: fixed; z-index: 99; top: 0; left: 0; background-color: rgba(0,0,0,0.93);}
 .overlay-content {position: fixed; top: 20%; left: 0; width: 100%; text-align: center;} /* used to be position: relative */
 nav {position: absolute; top: -125px;}
-nav a {text-decoration: none; margin: 0 75px;}
+nav a {
+	text-decoration: none;
+	margin: 0 75px;
+	transition: all 1s;
+	text-decoration-color: transparent;
+	-webkit-text-decoration-color: white;
+	-moz-text-decoration-color: white;
+}
+ nav a:hover {
+ 	text-decoration: underline;
+ 	text-decoration-color: white;
+ 	-webkit-text-decoration-color: white;
+ 	-moz-text-decoration-color: white;
+}
 
 /* HEADER HERO */
 header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
@@ -103,7 +116,12 @@ a {transition: color .3s ease-out;}
 }
 
 /* RWD */
+@media only screen and (max-width: 1200px) {
+	nav a {margin: 0 50px;}
+}
+
 @media only screen and (max-width: 960px) {
+	nav a {margin: 0 40px;}
 	#header-home h1 {font-size: 2rem;}
 	.content-home h2 {margin-top: 0; padding-top: 0;}
 	.content-home p {font-size: 1.25rem;}
@@ -113,16 +131,17 @@ a {transition: color .3s ease-out;}
 }
 
 @media only screen and (max-width: 720px) {
+	nav a {margin: 0 30px;}
 	h1, h2 {font-size: 2rem;}
 }
 
 @media only screen and (max-width: 719px) {
+	nav {top: -150px;}
+	nav a {margin: 0 20px;}
 	.content-joinus .joinus-category-rwd {margin-top: 25px;}
 }
 
 @media only screen and (max-width: 540px) {
-	.media-category {margin-top: 130px;}
-	.media-category a {margin-top: 0;}
 	#text-hero {font-size: 2rem;}
 	p, a, .team-bio, .team-bio a, .team-bio a:hover {font-size: 0.875rem;}
 	header em {font-size: 0.875rem;}
