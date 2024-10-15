@@ -3,11 +3,11 @@ html {background: white;}
 body {direction: ltr !important;}
 
 /* NAV */
-#nav {margin-top: 50px;}
-#nav #nav-icon {position: absolute; right: 0;}
 .overlay #nav-icon {margin-top: 85px; opacity: 0.7;}
 .overlay {height: 100%; width: 100%; display: none; position: fixed; z-index: 99; top: 0; left: 0; background-color: rgba(0,0,0,0.93);}
 .overlay-content {position: fixed; top: 20%; left: 0; width: 100%; text-align: center;} /* used to be position: relative */
+nav {position: absolute; top: -125px;}
+nav a {text-decoration: none; margin: 0 75px;}
 
 /* HEADER HERO */
 header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
@@ -28,8 +28,6 @@ header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; fo
 .callout {margin-top: 50px;}
 .callout i {font-weight: bold; font-style: italic;}
 #learnmore-expand i {font-weight: normal; font-style: italic;}
-
-/***** bug: margin-top slides down lag *****/
 
 /* CONTENT */
 .content-home img {width: 100%;}
