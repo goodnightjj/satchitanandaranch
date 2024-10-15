@@ -41,8 +41,8 @@ header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; fo
 sub {font-size: 60%;}
 .main-section {margin-top: 100px;}
 .main-section p {text-align: left;}
-.retreats-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 100px; margin-bottom: 100px;}
-.retreats-indi-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 150px; margin-bottom: 100px;}
+.retreats-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 100px; margin-bottom: 50px;}
+.retreats-indi-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 100px;}
 .sub-section {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1; margin-top: 50px;}
 p.retreats {font-family: Helvetica, sans-serif; font-weight: 200; color: black; font-size: 1.125rem; line-height: 1.5;}
 p.retreats-text {margin-bottom: 50px;}
