@@ -41,6 +41,7 @@ header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; fo
 #header-home img {max-width: 220px;}
 #logo-img {max-width: 220px; margin: 0 auto; top: 100px;}
 
+
 /* CALLOUT */
 .callout {margin-top: 50px;}
 .callout i {font-weight: bold; font-style: italic;}
@@ -67,6 +68,9 @@ p.retreats-text {margin-bottom: 50px;}
 .team-bio {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: 200;}
 .team-block {margin-bottom: 100px;}
 .team-block img {width: 100%;}
+.about-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 50px;}
+.about-section-title-follow {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 150px; margin-bottom: 50px;}
+
 ul, li {font-family: Helvetica, sans-serif; font-weight: 200; color: black; font-size: 1.125rem; line-height: 1.5; text-align: left;}
 ul {padding-inline-start: 0px;}
 li{margin: 10px 0;}
