@@ -20,7 +20,7 @@ header, #header-retreats, #header-about, #header-team {height: 100vh; padding-to
 #logo-img {max-width: 220px; margin: 0 auto; top: 100px;}
 header p {margin-top: 30px; padding-top: 20px; max-width: 800px; margin: 0 auto; color: white;}
 p + p {padding-top: 15px;}
-p, a {font-family: Helvetica, sans-serif; font-size: 1.125rem; text-align: center; color: black; font-weight: 200;}
+p, a {font-family: Helvetica, sans-serif; font-size: 1.125rem; text-align: center; color: black; font-weight: 200; line-height: 1.5;}
 header p {color: white; line-height: 1.5;}
 #text-hero {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 20px;}
 .section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 100px;}
@@ -49,7 +49,7 @@ sub {font-size: 60%;}
 p.retreats {font-family: Helvetica, sans-serif; font-weight: 200; color: black; font-size: 1.125rem; line-height: 1.5;}
 p.retreats-text {margin-bottom: 50px;}
 .team-name {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1;}
-.team-title {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: bold; margin-top: -10px; margin-bottom: 20px;}
+.team-title {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: 300; margin-top: -10px; margin-bottom: 20px;}
 .team-bio {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: 200;}
 .team-block {margin-bottom: 100px;}
 .team-block img {width: 100%;}
