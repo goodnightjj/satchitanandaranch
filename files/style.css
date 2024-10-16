@@ -24,6 +24,7 @@ p, a {font-family: Helvetica, sans-serif; font-size: 1.125rem; text-align: cente
 header p {color: white;}
 #text-hero {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 20px;}
 .section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 100px;}
+.testimonial-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: -100px;}
 header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-style: italic; color: white; font-size: 1.125rem;}
 
 /* CALLOUT */
