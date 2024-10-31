@@ -107,7 +107,7 @@ a {transition: color .3s ease-out;}
 	.slide {height: 11rem;}
 }
 
-@media only screen and (max-width: 719px) {
+@media only screen and (max-width: 720px) {
 	nav {top: 0px;}
 	nav a {margin: 0 20px;}
 	h1, h2 {font-size: 2rem;}
