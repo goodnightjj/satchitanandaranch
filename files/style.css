@@ -117,8 +117,8 @@ a {transition: color .3s ease-out;}
 
 @media only screen and (max-width: 540px) {
 	#text-hero {font-size: 2rem;}
-	p, a, .team-bio, .team-bio a, .team-bio a:hover {font-size: 0.875rem;}
-	header em {font-size: 0.875rem;}
+	p, a, .team-bio, .team-bio a, .team-bio a:hover, p.retreats {font-size: 0.925rem;}
+	header em {font-size: 0.925rem;}
 	header p {margin-top: 20px; padding-top: 0;}
 	#text-hero {margin-top: 35px;}
 	#header-home img, #logo-img {max-width: 180px;}
