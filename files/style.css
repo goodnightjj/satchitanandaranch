@@ -11,7 +11,7 @@ nav a {text-decoration: none; transition: all 1s; text-decoration-color: transpa
 nav a:hover {text-decoration: underline; text-decoration-color: white; -webkit-text-decoration-color: white; -moz-text-decoration-color: white;}
 #header-home img {max-width: 190px;}
 #nav-links a {margin-top: 15px;}
-#nav-links-retreats {margin-left: 35px;}
+#nav-links-retreats {margin-left: 50px;}
 
 /* HEADER HERO */
 header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
@@ -94,14 +94,10 @@ a {transition: color .3s ease-out;}
 	.testimonial blockquote {font-size: 1rem;}
 }
 
-@media only screen and (max-width: 1200px) {
-	nav a {margin: 0 50px;}
+@media only screen and (max-width: 960px) {
 	#nav-desktop {display: none;}
 	#nav-rwd {display: block;}
-}
-
-@media only screen and (max-width: 960px) {
-	nav a {margin: 0 40px;}
+	#nav-links-retreats {margin-left: 40px;}
 	#header-home h1 {font-size: 2rem;}
 	.content-home h2 {margin-top: 0; padding-top: 0;}
 	.content-home p {font-size: 1.25rem;}
@@ -114,16 +110,16 @@ a {transition: color .3s ease-out;}
 
 @media only screen and (max-width: 720px) {
 	nav {top: 0px;}
-	nav a {margin: 0 20px;}
+	#nav-links-retreats {margin-left: 30px;}
 	h1, h2 {font-size: 2rem;}
 	.content-joinus .joinus-category-rwd {margin-top: 25px;}
 	.testimonial blockquote {font-size: 0.875rem;}
 }
 
 @media only screen and (max-width: 540px) {
-	#text-hero {font-size: 2rem;}
+	#nav-links-retreats {margin-left: 20px;}
+	#text-hero {font-size: 2rem; margin-top: 35px;}
 	p, a, .team-bio, .team-bio a, .team-bio a:hover, p.retreats, li {font-size: 0.925rem;}
 	header em {font-size: 0.925rem;}
 	header p {margin-top: 20px; padding-top: 0;}
-	#text-hero {margin-top: 35px;}
 }
