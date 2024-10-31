@@ -9,6 +9,7 @@ body {direction: ltr !important;}
 nav {position: absolute; top: 50px;} /* top: -125px; */
 nav a {text-decoration: none; margin: 0 30px; transition: all 1s; text-decoration-color: transparent; -webkit-text-decoration-color: white; -moz-text-decoration-color: white; display: inline-block;}
 nav a:hover {text-decoration: underline; text-decoration-color: white; -webkit-text-decoration-color: white; -moz-text-decoration-color: white;}
+#nav-links a {margin-top: 20px;}
 
 /* HEADER HERO */
 header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
@@ -16,7 +17,7 @@ header, #header-retreats, #header-about, #header-team {height: 100vh; padding-to
 #header-retreats {background-image: url('../img/retreats.png'); margin-top: 150px;}
 #header-about {background-image: url('../img/about.png'); margin-top: 150px;}
 #header-team {background-image: url('../img/team.png'); margin-top: 150px;}
-#header-home img {max-width: 220px;}
+#header-home img {max-width: 160px;}
 #logo-img {max-width: 220px; margin: 0 auto; top: 100px;}
 header p {margin-top: 30px; padding-top: 20px; max-width: 800px; margin: 0 auto; color: white;}
 p + p {padding-top: 15px;}
