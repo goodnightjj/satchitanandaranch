@@ -6,7 +6,7 @@ body {direction: ltr !important;}
 .overlay #nav-icon {margin-top: 85px; opacity: 0.7;}
 .overlay {height: 100%; width: 100%; display: none; position: fixed; z-index: 99; top: 0; left: 0; background-color: rgba(0,0,0,0.93);}
 .overlay-content {position: fixed; top: 20%; left: 0; width: 100%; text-align: center;} /* used to be position: relative */
-nav {position: absolute; top: 30px;} /* top: -125px; */
+nav {position: absolute; top: 20px;}
 nav a {text-decoration: none; transition: all 1s; text-decoration-color: transparent; -webkit-text-decoration-color: white; -moz-text-decoration-color: white; display: inline-block;}
 nav a:hover {text-decoration: underline; text-decoration-color: white; -webkit-text-decoration-color: white; -moz-text-decoration-color: white;}
 #header-home img {max-width: 190px;}
