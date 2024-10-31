@@ -10,8 +10,8 @@ nav {position: absolute; top: 50px;} /* top: -125px; */
 nav a {text-decoration: none; transition: all 1s; text-decoration-color: transparent; -webkit-text-decoration-color: white; -moz-text-decoration-color: white; display: inline-block;}
 nav a:hover {text-decoration: underline; text-decoration-color: white; -webkit-text-decoration-color: white; -moz-text-decoration-color: white;}
 #header-home img {max-width: 190px;}
-#nav-links a {margin-top: 6px;}
-#nav-links-retreats {margin-left: 20px;}
+#nav-links a {margin-top: 15px;}
+#nav-links-retreats {margin-left: 35px;}
 
 /* HEADER HERO */
 header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
