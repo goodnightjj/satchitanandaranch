@@ -88,13 +88,6 @@ a {transition: color .3s ease-out;}
 #nav-desktop {display: block;}
 #nav-rwd {display: none;}
 
-@media only screen and (max-width: 1400px) {
-	nav {top: 20px;}
-	.slider {height: 15rem;}
-	.slide {height: 9rem;}
-	.testimonial blockquote {font-size: 1rem;}
-}
-
 @media only screen and (max-width: 960px) {
 	#nav-desktop {display: none;}
 	#nav-rwd {display: block;}
@@ -106,8 +99,6 @@ a {transition: color .3s ease-out;}
 	.prev-next span {display: none;}
 	#text-hero {font-size: 2.25rem;}
 	p, a, li {font-size: 1rem;}
-	.slider {height: 16rem;}
-	.slide {height: 11rem;}
 }
 
 @media only screen and (max-width: 720px) {
@@ -115,7 +106,6 @@ a {transition: color .3s ease-out;}
 	#nav-links-retreats {margin-left: 30px;}
 	h1, h2 {font-size: 2rem;}
 	.content-joinus .joinus-category-rwd {margin-top: 25px;}
-	.testimonial blockquote {font-size: 0.875rem;}
 }
 
 @media only screen and (max-width: 540px) {
