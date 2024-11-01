@@ -15,7 +15,7 @@ nav a:hover {text-decoration: underline; text-decoration-color: white; -webkit-t
 #nav-links-retreats {margin-left: 50px;}
 
 /* HEADER IMG */
-header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
+header, #header-retreats, #header-retreats, #header-team, #header-about-1, #header-about-2, #header-about-3, #header-about-4, #header-retreats-1, #header-retreats-2, #header-energize-1, #header-energize-2, #header-harmonize-1, #header-harmonize-2, #header-evolve-1, #header-evolve-2, #header-transcend-1, #header-transcend-2 {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
 #header-home {background-image: url('../img/hero.webp');}
 #header-retreats {background-image: url('../img/retreats.webp'); margin-top: 150px;}
 #header-team {background-image: url('../img/team.webp'); margin-top: 150px;}
