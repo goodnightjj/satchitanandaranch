@@ -14,7 +14,7 @@ nav a:hover {text-decoration: underline; text-decoration-color: white; -webkit-t
 #nav-links a {margin-top: 15px;}
 #nav-links-retreats {margin-left: 50px;}
 
-/* HEADER HERO IMG */
+/* HEADER IMG */
 header, #header-retreats, #header-about, #header-team {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
 #header-home {background-image: url('../img/hero.webp');}
 #header-retreats {background-image: url('../img/retreats.webp'); margin-top: 150px;}
@@ -23,7 +23,16 @@ header, #header-retreats, #header-about, #header-team {height: 100vh; padding-to
 #header-about-2 {background-image: url('../img/about-2.webp'); margin-top: 150px;}
 #header-about-3 {background-image: url('../img/about-3.webp'); margin-top: 150px;}
 #header-about-4 {background-image: url('../img/about-4.webp'); margin-top: 150px;}
-
+#header-retreats-1 {background-image: url('../img/retreats-1.webp'); margin-top: 150px;}
+#header-retreats-2 {background-image: url('../img/retreats-2.webp'); margin-top: 150px;}
+#header-energize-1 {background-image: url('../img/energize-1.webp'); margin-top: 150px;}
+#header-energize-2 {background-image: url('../img/energize-2.webp'); margin-top: 150px;}
+#header-harmonize-1 {background-image: url('../img/harmonize-1.webp'); margin-top: 150px;}
+#header-harmonize-2 {background-image: url('../img/harmonize-2.webp'); margin-top: 150px;}
+#header-evolve-1 {background-image: url('../img/evolve-1.webp'); margin-top: 150px;}
+#header-evolve-2 {background-image: url('../img/evolve-2.webp'); margin-top: 150px;}
+#header-transcend-1 {background-image: url('../img/transcend-1.webp'); margin-top: 150px;}
+#header-transcend-2 {background-image: url('../img/transcend-2.webp'); margin-top: 150px;}
 
 /* HEADER TYPOGRAPHY */
 header p {margin-top: 30px; padding-top: 20px; max-width: 800px; margin: 0 auto; color: white;}
