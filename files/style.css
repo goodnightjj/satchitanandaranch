@@ -39,10 +39,12 @@ header p {margin-top: 30px; padding-top: 20px; max-width: 800px; margin: 0 auto;
 p + p {padding-top: 15px;}
 p, a {font-family: Helvetica, sans-serif; font-size: 1rem; text-align: center; color: black; font-weight: 200; line-height: 1.5;}
 header p {color: white; line-height: 1.5;}
-#text-hero {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: white; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 20px;}
-.section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 100px;}
-.testimonial-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: -100px;}
-header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-style: italic; color: white; font-size: 1.125rem;}
+h6, #text-hero, .section-title, .testimonial-section-title, header em, .retreats-section-title, .retreats-section-title-follow, .retreats-indi-section-title, .sub-section, .team-name, .about-section-title, .about-section-title-follow {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100;}
+
+#text-hero {color: white; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 20px;}
+.section-title {fcolor: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 100px;}
+.testimonial-section-title {color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: -100px;}
+header em {color: white; font-size: 1.125rem;}
 
 /* CALLOUT */
 .callout {margin-top: 50px;}
@@ -59,21 +61,21 @@ header em {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; fo
 sub {font-size: 60%;}
 .main-section {margin-top: 100px;}
 .main-section p, .retreat-testimonial-section p {text-align: left;}
-.retreats-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 100px; margin-bottom: 50px;}
-.retreats-section-title-follow {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 150px; margin-bottom: 50px;}
-.retreats-indi-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 100px;}
-.sub-section {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1; margin-top: 50px;}
+.retreats-section-title {color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 100px; margin-bottom: 50px;}
+.retreats-section-title-follow {color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 150px; margin-bottom: 50px;}
+.retreats-indi-section-title {color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 100px;}
+.sub-section {color: black; font-size: 1.75rem; line-height: 1.1; margin-top: 50px;}
 p.retreats {font-family: Helvetica, sans-serif; font-weight: 200; color: black; font-size: 1rem; line-height: 1.5;}
 p.retreats-text {margin-bottom: 50px;}
-.team-name {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 1.75rem; line-height: 1.1;}
+.team-name {color: black; font-size: 1.75rem; line-height: 1.1;}
 .team-title {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: 300; margin-top: -10px; margin-bottom: 20px;}
 .team-bio {font-family: Helvetica, sans-serif; font-size: 1rem; color: black; font-weight: 200;}
 .team-block {margin-bottom: 100px;}
 .team-block img {width: 100%;}
 #about-intro-text-1 {margin-bottom: 100px;}
 #about-intro-text {margin-bottom: 200px;}
-.about-section-title {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 50px;}
-.about-section-title-follow {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 150px; margin-bottom: 50px;}
+.about-section-title {color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 50px; margin-bottom: 50px;}
+.about-section-title-follow {color: black; font-size: 3.5rem; line-height: 1.1; margin-top: 150px; margin-bottom: 50px;}
 
 ul, li {font-family: Helvetica, sans-serif; font-weight: 200; color: black; font-size: 1rem; line-height: 1.5; text-align: left;}
 ul {padding-inline-start: 0px;}

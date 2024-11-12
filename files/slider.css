@@ -1,13 +1,13 @@
 /* TYPE */
 blockquote {font-family: Helvetica, sans-serif; font-size: 1rem; font-weight: 200; color: black; line-height: 1.5;}
-h6 {font-family: 'SuperLightItalic', Georgia, serif; font-size: 1rem;} /* font-style: italic; */ 
+h6 {font-family: 'SuperLightItalic', Georgia, serif; font-weight: 100; font-size: 1rem;} 
 
 /* SLIDER */
 .slider {max-width: 100rem; height: 12rem; margin: 0 auto; position: relative; overflow: hidden;}
 .slide {position: absolute; top: 0; width: 100%; height: 6rem; display: flex; align-items: center; justify-content: center; transition: transform 1s;}
 .slider__btn {position: absolute; top: 50%; z-index: 10; border: none; background: rgba(255, 255, 255, 0.7); font-family: inherit; color: #888; border-radius: 50%; height: 5.5rem; width: 5.5rem; font-size: 3.25rem; cursor: pointer;}
-.slider__btn--left {left: 5%; transform: translate(-50%, -100%);}
-.slider__btn--right {right: 5%; transform: translate(50%, -100%);}
+.slider__btn--left {left: 8%; transform: translate(-50%, -100%);}
+.slider__btn--right {right: 8%; transform: translate(50%, -100%);}
 
 /* TESTIMONIALS */
 .testimonial {width: 80%; position: relative;}
@@ -38,7 +38,7 @@ button:hover {opacity: 0.7;}
 
 @media only screen and (max-width: 720px) {
 	.slider {height: 20rem;}
-	.slide {height: 12rem;}
+	.slide {height: 14rem;}
 	blockquote, h6 {font-size: 0.875rem;}
 	.dots__dot {height: 0.7rem; width: 0.7rem;}
 }
