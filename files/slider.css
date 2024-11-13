@@ -15,7 +15,7 @@ address {font-style: normal;}
 
 /* DOTS */
 .dots {position: absolute; bottom: 5%; left: 50%; transform: translateX(-50%); display: flex;}
-.dots__dot {border: none; background-color: #b9b9b9; opacity: 0.7; height: 0.7rem; width: 0.7rem; border-radius: 0.7rem; margin-right: 1.75rem; cursor: pointer; transition: all 0.5s;}
+.dots__dot {border: none; background-color: #b9b9b9; opacity: 0.7; height: 0.7rem; width: 0.7rem; border-radius: 0.7rem; margin-right: 1.75rem; cursor: pointer; transition: all 0.5s; padding: 0;} /* box-sizing: border-box; */
 .dots__dot:last-child {margin: 0;}
 .dots__dot--active {background-color: #888; opacity: 1;}
 
