@@ -32,6 +32,8 @@ button:hover {opacity: 0.7;}
 @media only screen and (max-width: 960px) {
 	.slide {height: 18rem;}
 	.slide {height: 10rem;}
+	.slider__btn--left {left: 8%;}
+	.slider__btn--right {right: 8%;}
 	blockquote, h6 {font-size: 0.925rem;}
 	.dots__dot {height: 0.7rem; width: 0.7rem;}
 }
